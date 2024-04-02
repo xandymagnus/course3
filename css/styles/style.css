@@ -107,6 +107,11 @@ body {
 
 .image__presentation {
     width: 45%;
+    margin: 2% 2%;
+}
+
+.img__me {
+    padding-bottom: 15%;
 }
 
 .baseboard {
