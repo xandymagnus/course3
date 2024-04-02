@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Workbench&display=swap');
+
+h1 {
+    color: #00FD00;
+    font-size: 1.8rem;
+    padding-left: 10%;
+}
+
+.about__paragraph {
+    font-size: 1.3rem;
+}
+
+.img__me {
+    padding-left: 15%;
+}
